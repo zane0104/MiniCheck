@@ -1,2 +1,2 @@
 # MiniCheck
-测试git远程
+1.使用git管理代码
